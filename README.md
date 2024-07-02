@@ -15,6 +15,8 @@ The goal is to keep tapping and revealing images until you find a match for the 
 # screenshoots
 
 ![wrong matching image](image-1.png)
+
+
 ![correct matching image](image-2.png)
 
 ## Getting Started
